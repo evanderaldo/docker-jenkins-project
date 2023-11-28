@@ -1,5 +1,5 @@
 
-Jenkins-Docker Project
+Jenkins-Docker Project.
 
 # Installation
 ## Build the Jenkins BlueOcean Docker Image
